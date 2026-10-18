@@ -26,18 +26,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" width="100%" alt="02 / PROJECTS"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" width="100%" alt="Flagship projects"/></picture>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/PranilShah-08/break-your-model"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/01%20BREAK--YOUR--MODEL-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/01%20BREAK--YOUR--MODEL-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="break-your-model"/></picture></a>
-    &nbsp;
-    <a href="https://github.com/PranilShah-08/Nested-Adversarial-Containment"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/02%20NESTED--ADVERSARIAL--CONTAINMENT-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/02%20NESTED--ADVERSARIAL--CONTAINMENT-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="Nested-Adversarial-Containment"/></picture></a>
-    &nbsp;
-    <a href="https://github.com/PranilShah-08/ONIX-Council"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/03%20ONIX--COUNCIL-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/03%20ONIX--COUNCIL-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="ONIX-Council"/></picture></a>
-    &nbsp;
-    <a href="https://github.com/PranilShah-08/codecritic"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/04%20CODECRITIC-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/04%20CODECRITIC-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="CodeCritic"/></picture></a>
-  </p>
-</div>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" width="100%" alt="03 / TELEMETRY"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" width="100%" alt="Telemetry"/></picture>
 
