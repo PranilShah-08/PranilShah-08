@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Pranil Shah"/></picture>
 
 <a href="mailto:pranilshah08@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000000" alt="Email"/></picture></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
 <a href="https://github.com/PranilShah-08"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
 
 </div>
@@ -24,8 +24,17 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — telemetry"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Telemetry"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" width="100%" alt="Tools I ship with"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" width="100%" alt="Python, PyTorch, Hugging Face, LangChain, Claude, OpenAI, Linux, Docker, C++, PostgreSQL, Bash, Git"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" width="100%" alt="Building in public"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/snake.svg"/><img src="assets/snake.svg" width="100%" alt="Contribution graph telemetry being navigated by a cyber snake"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" width="100%" alt="Connect on LinkedIn"/></picture>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-linkedin.svg"/><img src="assets/card-linkedin.svg" width="100%" alt="Connect on LinkedIn — Open to research collaboration, advisory & engineering"/></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s07.svg"/><img src="assets/s07.svg" width="100%" alt="Direct Dispatch"/></picture>
+<a href="mailto:pranilshah08@gmail.com?subject=Hello%20Pranil%20%7C%20AI%20Research%20%26%20Collaboration"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-gmail.svg"/><img src="assets/card-gmail.svg" width="100%" alt="Direct Dispatch — pranilshah08@gmail.com"/></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 

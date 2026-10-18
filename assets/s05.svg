@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1280 116" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="05 / ACTIVITY — Building in public">
+  <defs>
+    <linearGradient id="ln_05" x1="0" x2="1">
+      <stop offset="0" stop-color="#0284c7"/>
+      <stop offset="0.35" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0284c7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
+  <text x="4" y="34" class="mono" font-size="14" fill="#0284c7" letter-spacing="4">05 / ACTIVITY</text>
+  <text x="0" y="86" class="mono" font-size="42" font-weight="700" fill="#0b0c10" letter-spacing="-1">Building in public</text>
+  <text x="1276" y="86" class="mono" font-size="16" fill="#5d6270" text-anchor="end">Live contribution telemetry & shipping velocity</text>
+  <rect x="0" y="108" width="1280" height="2" fill="url(#ln_05)"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1280 116" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="07 / DISPATCH — Direct Inbox">
+  <defs>
+    <linearGradient id="ln_07" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.35" stop-color="#38bdf8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
+  <text x="4" y="34" class="mono" font-size="14" fill="#38bdf8" letter-spacing="4">07 / DISPATCH</text>
+  <text x="0" y="86" class="mono" font-size="42" font-weight="700" fill="#f7f0dc" letter-spacing="-1">Direct Inbox</text>
+  <text x="1276" y="86" class="mono" font-size="16" fill="#9aa0ad" text-anchor="end">Direct communication & paper discussions</text>
+  <rect x="0" y="108" width="1280" height="2" fill="url(#ln_07)"/>
+</svg>
