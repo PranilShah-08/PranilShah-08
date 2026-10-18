@@ -1,94 +1,125 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm <a href="https://github.com/PranilShah-08">Pranil Shah</a> 👋</h1>
-  <p align="center">
-    <strong>AI/ML Student & Researcher • Multi-Agent Systems • LLM Safety & Alignment</strong>
-  </p>
-  <p align="center">
-    📍 Ahmedabad, India &nbsp;|&nbsp; 💡 Building intelligent, safe, and autonomous systems
-  </p>
+  <!-- Animated Waving Cyber Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=220&section=header&text=Pranil%20Shah&fontSize=52&fontAlignY=36&desc=Autonomous%20Agents%20%E2%80%A2%20AI%20Safety%20%E2%80%A2%20Representation%20Steering&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
+  <!-- Animated Real-time Typing SVG -->
+  <a href="https://github.com/PranilShah-08">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Exploring+Multi-Agent+Containment+%26+Adversarial+Dynamics;Building+Collaborative+Intelligence+Councils;Pioneering+LLM+Representation+Abliteration+%26+Steering;Architecting+Robust+Tool-Augmented+Autonomous+Agents" alt="Typing SVG" />
+  </a>
 
   <p align="center">
-    <a href="mailto:pranilshah08@gmail.com"><img src="https://img.shields.io/badge/Email-pranilshah08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/PranilShah-08"><img src="https://img.shields.io/badge/GitHub-PranilShah--08-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    📍 <b>Ahmedabad, India</b> &nbsp;•&nbsp; 💡 <i>Developing at the frontier of multi-agent dynamics and model safety</i>
+  </p>
+
+  <p align="center">
+    <a href="mailto:pranilshah08@gmail.com"><img src="https://img.shields.io/badge/Email-pranilshah08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/PranilShah-08"><img src="https://img.shields.io/badge/GitHub-PranilShah--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
+### ⚡ System Telemetry & Console
 
-- 🔬 **Research & Focus**: Multi-agent deliberation dynamics, autonomous LLM containment protocols, and adversarial breakout behavior under pressure.
-- 🛠️ **Engineering**: Building collaborative intelligence architectures, tool-augmented agent workflows, and practical ML diagnostic engines.
-- 🎓 **Background**: AI/ML Student passionate about translating theoretical AI safety and alignment insights into robust, real-world systems.
-- 🌱 **Currently exploring**: Multi-agent consensus protocols, mechanistic interpretability, and long-context reasoning resilience.
-- 💬 **Ask me about**: Autonomous Agents, PyTorch, LangChain, Statistical ML, and Multi-Agent Alignment.
-- 📫 **Get in touch**: [pranilshah08@gmail.com](mailto:pranilshah08@gmail.com)
-
----
-
-### 🧪 Featured Research & Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[Nested-Adversarial-Containment](https://github.com/PranilShah-08/Nested-Adversarial-Containment)** | Empirical evaluation framework testing multi-agent safety, adversarial breakout, and containment dynamics between autonomous LLMs. | `Python` `Multi-Agent` `AI Safety` |
-| 🏛️ **[ONIX-Council](https://github.com/PranilShah-08/ONIX-Council)** | Collaborative intelligence system where multiple LLMs deliberate, negotiate, and reach consensus via a chairman-moderated protocol. | `Python` `LLMs` `Consensus` |
-| 🧑‍💻 **[CodeCritic](https://github.com/PranilShah-08/codecritic)** | Autonomous senior software engineer agent reviewing implementations for architecture quality, failure cases, and maintainability. | `Python` `Code Analysis` `Agents` |
-| ⚡ **[break-your-model](https://github.com/PranilShah-08/break-your-model)** | Autonomous LLM representation abliteration & directional safety steering framework using arbitrary-rank ablation and Pareto optimization. | `Python` `PyTorch` `AI Safety` `Optuna` |
+```bash
+┌──(pranil@neural-core)-[~]
+└─$ ./init_system_matrix.sh --verbose --subsystems=all
+[+] Hardware Acceleration .... [ Apple Silicon MPS | NVIDIA CUDA ]
+[+] Primary Vector ........... [ Autonomous Multi-Agent Governance ]
+[+] Safety Protocol .......... [ Zero-Drift Directional Ablation (ARA) ]
+[+] Adversarial Containment .. [ Active Simulation & Sandbox Testing ]
+[+] System Status ............ [ READY: All Intelligence Units Operating ]
+```
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🧬 Core Research & Engineering Vectors
 
-<div align="left">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Multi-Agent Safety & Containment</h4>
+      <p>Investigating emergent adversarial breakout behaviors, operational survival pressure dynamics, and multi-model containment protocols when autonomous LLMs interact in closed loops.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Directional Representation Steering</h4>
+      <p>Exploring mechanistic interpretability, latent concept ablation, hyperspherical norm invariance, and multi-objective Pareto optimization to modify LLM internals without catastrophic model drift.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏛️ Collaborative Intelligence & Consensus</h4>
+      <p>Designing deliberate consensus engines where specialized agents debate, arbitrate, and synthesize balanced intelligence guided by automated chairman moderation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧑‍💻 Autonomous Engineering Agents</h4>
+      <p>Constructing tool-augmented agent pipelines capable of static analysis, architecture validation, automated debugging, and deep execution trace auditing.</p>
+    </td>
+  </tr>
+</table>
 
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+---
 
-#### 🧠 Machine Learning & AI Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
+### 🔬 Flagship Projects
 
-#### ⚙️ Developer Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<div align="center">
+
+| Project | Focus Area | Architecture & Highlights |
+| :--- | :---: | :--- |
+| 🛡️ **[Nested-Adversarial-Containment](https://github.com/PranilShah-08/Nested-Adversarial-Containment)** | `AI Safety & Alignment` | Empirical evaluation framework studying multi-agent adversarial breakout dynamics and containment barriers under operational pressure. |
+| ⚡ **[break-your-model](https://github.com/PranilShah-08/break-your-model)** | `Representation Engineering` | Zero-drift arbitrary-rank ablation (ARA), hyperspherical row-norm invariance, and multi-objective Pareto optimization across 90+ model targets. |
+| 🏛️ **[ONIX-Council](https://github.com/PranilShah-08/ONIX-Council)** | `Multi-Agent Consensus` | Multi-LLM deliberative council protocol synthesizing multi-perspective reasoning into high-confidence consensus decisions. |
+| 🧑‍💻 **[CodeCritic](https://github.com/PranilShah-08/codecritic)** | `Autonomous Code Review` | Senior software engineer agent pipeline auditing implementations for architectural resilience, hidden edge cases, and maintainability. |
 
 </div>
 
 ---
 
-### 📊 GitHub Overview
+### 🛠️ Weapon of Choice // Tech Matrix
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranilShah-08&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranil's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranilShah-08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
 
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranilShah-08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <p><b>Languages, AI/ML Frameworks & Developer Ecosystem</b></p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,bash,linux,docker,postgres,git,github,vscode,postman&theme=dark" alt="Skill Icons" />
+  </a>
+
+  <br/><br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Optuna-Multi--Objective-blue?style=flat-square" alt="Optuna" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  </p>
+
 </div>
 
 ---
 
+### 🔭 Research Philosophy & Operational Notes
+
+<details>
+  <summary><b>Click to expand: The Vision & Mental Model</b></summary>
+  <br/>
+
+> *"True alignment cannot be assumed under passive conditions—it must be empirically stressed, tested across multi-agent consensus vectors, and steered down to the weight representations."*
+
+- **On Safety**: Alignment cannot merely be superficial system prompts. It demands rigorous representation-level steering (abliteration, directional probes) and empirical boundary testing.
+- **On Multi-Agent Systems**: Complex real-world reasoning exceeds single-agent cognitive horizons; deliberative consensus mechanisms with automated arbitration represent the next leap in reliable autonomy.
+- **Open Collaborations**: Always excited to collaborate on mechanistic interpretability, autonomous containment benchmarks, and multi-agent safety architectures.
+
+</details>
+
+---
+
 <div align="center">
-  <sub>Designed with care • Always open to discussions on AI Safety, Agents, and Novel Architectures</sub>
+  <!-- Animated Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  <sub>Crafted with passion for AI Safety & Autonomous Intelligence • Pranil Shah</sub>
 </div>
