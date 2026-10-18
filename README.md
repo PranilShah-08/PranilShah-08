@@ -34,8 +34,7 @@
 | 🛡️ **[Nested-Adversarial-Containment](https://github.com/PranilShah-08/Nested-Adversarial-Containment)** | Empirical evaluation framework testing multi-agent safety, adversarial breakout, and containment dynamics between autonomous LLMs. | `Python` `Multi-Agent` `AI Safety` |
 | 🏛️ **[ONIX-Council](https://github.com/PranilShah-08/ONIX-Council)** | Collaborative intelligence system where multiple LLMs deliberate, negotiate, and reach consensus via a chairman-moderated protocol. | `Python` `LLMs` `Consensus` |
 | 🧑‍💻 **[CodeCritic](https://github.com/PranilShah-08/codecritic)** | Autonomous senior software engineer agent reviewing implementations for architecture quality, failure cases, and maintainability. | `Python` `Code Analysis` `Agents` |
-| 🏥 **[AI-Agents-for-Medical-Diagnostics](https://github.com/PranilShah-08/AI-Agents-for-Medical-Diagnostics)** | Multi-specialist agent ensemble synthesizing complex clinical data for diagnostic reasoning and treatment evaluation. | `Python` `Healthcare AI` `LLMs` |
-| 🔒 **[SML](https://github.com/PranilShah-08/SML)** | Network intrusion classification system benchmarking statistical machine learning models on the CIC-IDS2017 dataset. | `Python` `Scikit-Learn` `Cybersecurity` |
+| ⚡ **[break-your-model](https://github.com/PranilShah-08/break-your-model)** | Autonomous LLM representation abliteration & directional safety steering framework using arbitrary-rank ablation and Pareto optimization. | `Python` `PyTorch` `AI Safety` `Optuna` |
 
 ---
 
