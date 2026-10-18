@@ -13,13 +13,17 @@
     @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
     .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes grow { to { transform: scaleX(1); } }
+    .food-pulse { animation: fp 1.8s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes fp { 0%, 100% { transform: scale(1); opacity: 0.9; } 50% { transform: scale(1.3); opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); } }
+    .float-tag { animation: floatTag 3s ease-in-out infinite alternate; }
+    @keyframes floatTag { 0% { transform: translateY(0); } 100% { transform: translateY(-4px); } }
     @media (prefers-reduced-motion: reduce) {
-      .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
+      .pulse-dot, .bar, .food-pulse, .float-tag { animation: none; transform: none; opacity: 1; }
     }
   </style>
 
   <text x="4" y="34" class="mono" font-size="14" font-weight="700" fill="#0284c7" letter-spacing="4">05 / ACTIVITY</text>
   <text x="0" y="86" class="mono" font-size="42" font-weight="700" fill="#0b0c10" letter-spacing="-1">Building in public</text>
-  <text x="1276" y="86" class="mono" font-size="16" fill="#5d6270" text-anchor="end">Live contribution telemetry & shipping velocity</text>
+  <text x="1276" y="86" class="mono" font-size="16" fill="#5d6270" text-anchor="end">Live GitHub telemetry & arcade contribution matrix</text>
   <rect x="0" y="108" width="1280" height="2" fill="url(#ln_05_l)"/>
 </svg>

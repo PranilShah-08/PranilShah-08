@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1280 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Google Scholar Profile Card">
+  <defs>
+    <clipPath id="sc_cp_d"><rect width="1280" height="180" rx="24"/></clipPath>
+    <pattern id="grid_sc_d" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.035)" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="sc_glow_d" cx="0.1" cy="0.2" r="0.8">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#13141b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .pulse-dot { animation: pulse 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    .food-pulse { animation: fp 1.8s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes fp { 0%, 100% { transform: scale(1); opacity: 0.9; } 50% { transform: scale(1.3); opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); } }
+    .float-tag { animation: floatTag 3s ease-in-out infinite alternate; }
+    @keyframes floatTag { 0% { transform: translateY(0); } 100% { transform: translateY(-4px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse-dot, .bar, .food-pulse, .float-tag { animation: none; transform: none; opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#sc_cp_d)">
+    <rect width="1280" height="180" fill="#13141b"/>
+    <rect width="1280" height="180" fill="url(#grid_sc_d)"/>
+    <rect width="1280" height="180" fill="url(#sc_glow_d)"/>
+    
+    <!-- Watermark Logo -->
+    <path transform="translate(1120 15) scale(5)" d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" fill="#38bdf8" opacity="0.12"/>
+    
+    <g transform="translate(56 32)">
+      <rect width="36" height="36" rx="10" fill="#1b1d27" stroke="rgba(255,255,255,0.09)"/>
+      <path transform="translate(8 8) scale(0.83)" d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" fill="#38bdf8"/>
+      <text x="48" y="23" class="mono" font-size="13" font-weight="700" fill="#38bdf8" letter-spacing="3">ACADEMIC RESEARCH · GOOGLE SCHOLAR</text>
+    </g>
+    
+    <text x="56" y="106" class="mono" font-size="38" font-weight="700" fill="#f7f0dc" letter-spacing="-1">Pranil Shah on Google Scholar</text>
+    <text x="56" y="142" class="mono" font-size="15" fill="#9aa0ad">Academic citations, peer-reviewed papers &amp; algorithmic literature tracking.</text>
+    
+    <text x="1224" y="52" class="mono" font-size="13" fill="#38bdf8" letter-spacing="1" text-anchor="end">citations?user=m6K4nKEAAAAJ ↗</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="179" rx="24" fill="none" stroke="rgba(255,255,255,0.09)"/>
+</svg>
