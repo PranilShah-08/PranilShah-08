@@ -1,76 +1,64 @@
-<svg viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pranil Shah — Portfolio Header">
+<svg viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pranil Shah Hero Banner">
   <defs>
-    <clipPath id="h_clip_l"><rect width="1280" height="380" rx="28"/></clipPath>
-    <pattern id="h_mesh_l" width="40" height="40" patternUnits="userSpaceOnUse">
+    <clipPath id="h_cp_l"><rect width="1280" height="360" rx="28"/></clipPath>
+    <pattern id="h_pat_l" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(11,12,16,0.03)" stroke-width="1"/>
     </pattern>
-    <radialGradient id="h_glow_l" cx="0.85" cy="0.15" r="0.7">
-      <stop offset="0" stop-color="#0284c7" stop-opacity="0.15"/>
+    <radialGradient id="h_g1_l" cx="0.08" cy="0.1" r="0.8">
+      <stop offset="0" stop-color="#0284c7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="h_g2_l" cx="0.92" cy="0.9" r="0.7">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.12"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
   
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .draw { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
-    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes rise { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
-    .fade { opacity: 0; animation: fade .7s ease forwards; }
-    @keyframes fade { to { opacity: 1; } }
-    .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes grow { to { transform: scaleX(1); } }
-    .pulse-dot { animation: pulse 2.2s ease-in-out infinite; }
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
-    .pulse-ring { animation: ring 2.2s ease-out infinite; transform-origin: 60px 64px; }
-    @keyframes ring { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(2.6);opacity:0} }
     .sh { animation: sh 2.8s ease-in-out infinite; }
     @keyframes sh { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
-    .a1{animation-delay:.1s} .a2{animation-delay:.25s} .a3{animation-delay:.4s} .a4{animation-delay:.55s} .a5{animation-delay:.7s} .a6{animation-delay:.85s}
+    .pulse-dot { animation: pulse 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
     @media (prefers-reduced-motion: reduce) {
-      .draw, .rise, .fade, .bar, .pulse-dot, .pulse-ring, .sh { animation: none; opacity: 1; stroke-dashoffset: 0; transform: none; }
-      .pulse-ring { opacity: 0; }
+      .sh, .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
     }
   </style>
 
-  <g clip-path="url(#h_clip_l)">
-    <rect width="1280" height="380" fill="#ffffff"/>
-    <rect width="1280" height="380" fill="url(#h_mesh_l)"/>
-    <rect width="1280" height="380" fill="url(#h_glow_l)"/>
-    <line class="draw a1" x1="56" y1="56" x2="1224" y2="56" stroke="#e2ded4" stroke-width="1"/>
+  <g clip-path="url(#h_cp_l)">
+    <rect width="1280" height="360" fill="#ffffff"/>
+    <rect width="1280" height="360" fill="url(#h_pat_l)"/>
+    <rect width="1280" height="360" fill="url(#h_g1_l)"/>
+    <rect width="1280" height="360" fill="url(#h_g2_l)"/>
     
-    <g class="fade a1">
-      <text class="mono" fill="#0284c7" x="56" y="42" font-size="12" letter-spacing="4">PORTFOLIO — INDEX Nº 001</text>
-      <text class="mono" fill="#5d6270" x="1224" y="42" font-size="12" letter-spacing="3" text-anchor="end">AHMEDABAD, IN — 23.02° N</text>
+    <!-- Top Meta Line -->
+    <text x="56" y="52" class="mono" font-size="13" font-weight="700" fill="#0284c7" letter-spacing="4">PORTFOLIO — INDEX Nº 001</text>
+    <text x="1224" y="52" class="mono" font-size="13" fill="#5d6270" letter-spacing="2" text-anchor="end">AHMEDABAD, IN — 23.02° N</text>
+    <line x1="56" y1="68" x2="1224" y2="68" stroke="#e5e0d3" stroke-width="1"/>
+
+    <!-- Main Title -->
+    <text x="54" y="152" class="mono" font-size="68" font-weight="700" fill="#0b0c10" letter-spacing="-2">Pranil Shah</text>
+    <text x="56" y="194" class="mono" font-size="20" fill="#5d6270">AI/ML Researcher &amp; Developer — Multi-Agent Systems &amp; Alignment</text>
+    <text x="56" y="240" class="mono" font-size="14" fill="#8b909f">focus  ▸  multi-agent dynamics · adversarial containment · representation steering · autonomous councils</text>
+    
+    <!-- Chip Tags -->
+    <g transform="translate(56 270)">
+      <rect width="180" height="32" rx="16" fill="#f1ebe0"/>
+      <text x="90" y="21" class="mono" font-size="12" fill="#1e293b" text-anchor="middle">Multi-Agent Systems</text>
+      
+      <rect x="190" width="195" height="32" rx="16" fill="#f1ebe0"/>
+      <text x="287" y="21" class="mono" font-size="12" fill="#1e293b" text-anchor="middle">Representation Steering</text>
+      
+      <rect x="395" width="180" height="32" rx="16" fill="#f1ebe0"/>
+      <text x="485" y="21" class="mono" font-size="12" fill="#1e293b" text-anchor="middle">Adversarial Safety</text>
+      
+      <rect x="585" width="165" height="32" rx="16" fill="#f1ebe0"/>
+      <text x="667" y="21" class="mono" font-size="12" fill="#1e293b" text-anchor="middle">Apple MPS · CUDA</text>
     </g>
 
-    <g class="rise a2">
-      <text fill="#0b0c10" class="mono" x="54" y="166" font-size="70" font-weight="700" letter-spacing="-2">Pranil Shah</text>
-    </g>
-    
-    <g class="fade a3">
-      <text fill="#5d6270" class="mono" x="56" y="206" font-size="20">AI/ML Researcher &amp; Developer — Multi-Agent Systems &amp; LLM Alignment</text>
-    </g>
-
-    <g class="fade a4">
-      <text fill="#0284c7" class="mono" x="56" y="262" font-size="13" letter-spacing="1.5">focus  ▸</text>
-      <text fill="#0b0c10" class="mono" x="142" y="262" font-size="13" letter-spacing="1">multi-agent dynamics · adversarial containment · representation steering · autonomous councils</text>
-    </g>
-    
-    <g class="fade a5">
-      <text fill="#8b909f" class="mono" x="56" y="288" font-size="13" letter-spacing="1">open to research collaboration · technical advisory · engineering roles</text>
-    </g>
-
-    <line class="draw a5" x1="56" y1="324" x2="1224" y2="324" stroke="#e2ded4" stroke-width="1"/>
-    
-    <g class="fade a6">
-      <text fill="#0284c7" class="mono" x="56" y="354" font-size="12" letter-spacing="3">MULTI-AGENT DYNAMICS</text>
-      <text fill="#8b909f" class="mono" x="310" y="354" font-size="12">·</text>
-      <text fill="#5d6270" class="mono" x="334" y="354" font-size="12" letter-spacing="3">REPRESENTATION STEERING</text>
-      <text fill="#8b909f" class="mono" x="650" y="354" font-size="12">·</text>
-      <text fill="#5d6270" class="mono" x="674" y="354" font-size="12" letter-spacing="3">AI SAFETY &amp; CONTAINMENT</text>
-      <text fill="#5d6270" class="mono" x="1224" y="354" font-size="12" letter-spacing="3" text-anchor="end">2024 / 2028</text>
-    </g>
+    <text x="1224" y="292" class="mono" font-size="13" fill="#5d6270" letter-spacing="2" text-anchor="end">OPEN TO COLLABORATION · 2024 / 2028</text>
   </g>
-  <rect x="0.5" y="0.5" width="1279" height="379" rx="28" fill="none" stroke="rgba(11,12,16,0.08)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="28" fill="none" stroke="rgba(11,12,16,0.09)"/>
 </svg>
