@@ -12,14 +12,12 @@
   
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .sh { animation: sh 2.8s ease-in-out infinite; }
-    @keyframes sh { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
     .pulse-dot { animation: pulse 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
     @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
     .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes grow { to { transform: scaleX(1); } }
     @media (prefers-reduced-motion: reduce) {
-      .sh, .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
+      .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
     }
   </style>
 
@@ -34,7 +32,7 @@
 
     <line x1="48" y1="134" x2="1232" y2="134" stroke="#e5e0d3" stroke-width="1"/>
 
-    <!-- 3 Attribute Blocks (Victor Studios style) -->
+    <!-- 3 Attribute Blocks: Pune, IN, no open to collaborate -->
     <g transform="translate(48 154)">
       <rect width="360" height="76" rx="16" fill="#f4efe3" stroke="rgba(11,12,16,0.09)"/>
       <text x="20" y="32" class="mono" font-size="11" font-weight="700" fill="#0284c7" letter-spacing="2">CORE FOCUS</text>
@@ -43,14 +41,14 @@
 
     <g transform="translate(432 154)">
       <rect width="360" height="76" rx="16" fill="#f4efe3" stroke="rgba(11,12,16,0.09)"/>
-      <text x="20" y="32" class="mono" font-size="11" font-weight="700" fill="#0284c7" letter-spacing="2">CURRENT STATUS</text>
-      <text x="20" y="56" class="mono" font-size="14" fill="#0b0c10">Open for Research &amp; Advisory</text>
+      <text x="20" y="32" class="mono" font-size="11" font-weight="700" fill="#0284c7" letter-spacing="2">RESEARCH DOMAIN</text>
+      <text x="20" y="56" class="mono" font-size="14" fill="#0b0c10">Empirical Containment &amp; Alignment</text>
     </g>
 
     <g transform="translate(816 154)">
       <rect width="416" height="76" rx="16" fill="#f4efe3" stroke="rgba(11,12,16,0.09)"/>
       <text x="20" y="32" class="mono" font-size="11" font-weight="700" fill="#0284c7" letter-spacing="2">LOCATION &amp; BASE</text>
-      <text x="20" y="56" class="mono" font-size="14" fill="#0b0c10">Ahmedabad, India · 23.02° N</text>
+      <text x="20" y="56" class="mono" font-size="14" fill="#0b0c10">Pune, India · 18.52° N</text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="1279" height="259" rx="24" fill="none" stroke="rgba(11,12,16,0.09)"/>

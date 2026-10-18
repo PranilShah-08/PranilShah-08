@@ -1,29 +1,28 @@
-<svg viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flagship projects master">
+<svg viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flagship projects showcase">
   
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .sh { animation: sh 2.8s ease-in-out infinite; }
-    @keyframes sh { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
     .pulse-dot { animation: pulse 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
     @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
     .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes grow { to { transform: scaleX(1); } }
     @media (prefers-reduced-motion: reduce) {
-      .sh, .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
+      .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
     }
   </style>
 
   <rect x="0.5" y="0.5" width="1279" height="479" rx="24" fill="#13141b" stroke="rgba(255,255,255,0.09)"/>
   <g class="mono">
-    <!-- 4 projects -->
+    <!-- Project 01: Break-Your-Model (No MPS/CUDA) -->
     <g transform="translate(0 10)">
       <rect x="48" y="18" width="6" height="24" rx="3" fill="#38bdf8"/>
       <text fill="#f7f0dc" font-size="18" font-weight="700" x="64" y="36">01 / BREAK-YOUR-MODEL</text>
       <text fill="#9aa0ad" font-size="13" x="48" y="66">Autonomous LLM representation abliteration &amp; directional safety steering framework.</text>
       <text fill="#656b7c" font-size="13" x="48" y="86">Zero-drift arbitrary-rank ablation (ARA), hyperspherical row-norm invariance, and Pareto TPE optimization.</text>
-      <text fill="#38bdf8" font-size="11" font-weight="700" x="48" y="106">PYTHON · PYTORCH · REPRESENTATION ENGINEERING · OPTUNA · MPS / CUDA</text>
+      <text fill="#38bdf8" font-size="11" font-weight="700" x="48" y="106">PYTHON · PYTORCH · REPRESENTATION ENGINEERING · OPTUNA · SAFETY</text>
       <line x1="48" y1="120" x2="1232" y2="120" stroke="#252736" stroke-width="1"/>
     </g>
+    <!-- Project 02: Nested-Adversarial-Containment -->
     <g transform="translate(0 130)">
       <rect x="48" y="18" width="6" height="24" rx="3" fill="#38bdf8"/>
       <text fill="#f7f0dc" font-size="18" font-weight="700" x="64" y="36">02 / NESTED-ADVERSARIAL-CONTAINMENT</text>
@@ -32,6 +31,7 @@
       <text fill="#38bdf8" font-size="11" font-weight="700" x="48" y="106">PYTHON · MULTI-AGENT · AI SAFETY · GAME THEORY · ALIGNMENT</text>
       <line x1="48" y1="120" x2="1232" y2="120" stroke="#252736" stroke-width="1"/>
     </g>
+    <!-- Project 03: ONIX-Council -->
     <g transform="translate(0 250)">
       <rect x="48" y="18" width="6" height="24" rx="3" fill="#38bdf8"/>
       <text fill="#f7f0dc" font-size="18" font-weight="700" x="64" y="36">03 / ONIX-COUNCIL</text>
@@ -40,6 +40,7 @@
       <text fill="#38bdf8" font-size="11" font-weight="700" x="48" y="106">PYTHON · LLMS · MULTI-AGENT CONSENSUS · DELIBERATION PROTOCOL</text>
       <line x1="48" y1="120" x2="1232" y2="120" stroke="#252736" stroke-width="1"/>
     </g>
+    <!-- Project 04: CodeCritic -->
     <g transform="translate(0 370)">
       <rect x="48" y="18" width="6" height="24" rx="3" fill="#38bdf8"/>
       <text fill="#f7f0dc" font-size="18" font-weight="700" x="64" y="36">04 / CODECRITIC</text>

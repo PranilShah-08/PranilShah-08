@@ -9,14 +9,12 @@
   
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .sh { animation: sh 2.8s ease-in-out infinite; }
-    @keyframes sh { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
     .pulse-dot { animation: pulse 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
     @keyframes pulse { 0% { opacity: 0.9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
     .bar { transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes grow { to { transform: scaleX(1); } }
     @media (prefers-reduced-motion: reduce) {
-      .sh, .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
+      .pulse-dot, .bar { animation: none; transform: none; opacity: 1; }
     }
   </style>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" width="100%" alt="Pranil Shah"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" width="100%" alt="Pranil Shah — Pune, India"/></picture>
 
 <p align="center">
   <a href="mailto:pranilshah08@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-pranilshah08%40gmail.com-0e0f14?style=flat-square&logo=gmail&logoColor=38bdf8"/><img src="https://img.shields.io/badge/EMAIL-pranilshah08%40gmail.com-fbf8f1?style=flat-square&logo=gmail&logoColor=0284c7" alt="Email"/></picture></a>
@@ -22,19 +22,19 @@
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" width="100%" alt="02 / PROJECTS"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" width="100%" alt="Flagship projects"/></picture>
 
-<p align="center">
-  <a href="https://github.com/PranilShah-08/break-your-model"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-breakyourmodel.svg"/><img src="assets/p-breakyourmodel.svg" width="49%" alt="01 / BREAK-YOUR-MODEL"/></picture></a>
-  &nbsp;
-  <a href="https://github.com/PranilShah-08/Nested-Adversarial-Containment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-nestedadversarial.svg"/><img src="assets/p-nestedadversarial.svg" width="49%" alt="02 / NESTED-ADVERSARIAL-CONTAINMENT"/></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/PranilShah-08/ONIX-Council"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-onixcouncil.svg"/><img src="assets/p-onixcouncil.svg" width="49%" alt="03 / ONIX-COUNCIL"/></picture></a>
-  &nbsp;
-  <a href="https://github.com/PranilShah-08/codecritic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-codecritic.svg"/><img src="assets/p-codecritic.svg" width="49%" alt="04 / CODECRITIC"/></picture></a>
-</p>
-
-<br>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/PranilShah-08/break-your-model"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/01%20BREAK--YOUR--MODEL-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/01%20BREAK--YOUR--MODEL-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="break-your-model"/></picture></a>
+    &nbsp;
+    <a href="https://github.com/PranilShah-08/Nested-Adversarial-Containment"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/02%20NESTED--ADVERSARIAL--CONTAINMENT-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/02%20NESTED--ADVERSARIAL--CONTAINMENT-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="Nested-Adversarial-Containment"/></picture></a>
+    &nbsp;
+    <a href="https://github.com/PranilShah-08/ONIX-Council"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/03%20ONIX--COUNCIL-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/03%20ONIX--COUNCIL-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="ONIX-Council"/></picture></a>
+    &nbsp;
+    <a href="https://github.com/PranilShah-08/codecritic"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/04%20CODECRITIC-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/04%20CODECRITIC-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="CodeCritic"/></picture></a>
+  </p>
+</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" width="100%" alt="03 / TELEMETRY"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" width="100%" alt="Telemetry"/></picture>
@@ -57,7 +57,7 @@
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s07.svg"/><img src="assets/s07.svg" width="100%" alt="07 / DISPATCH"/></picture>
-<a href="mailto:pranilshah08@gmail.com?subject=Hello%20Pranil%20%7C%20AI%20Research%20%26%20Collaboration"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-gmail.svg"/><img src="assets/card-gmail.svg" width="100%" alt="Direct Dispatch"/></picture></a>
+<a href="mailto:pranilshah08@gmail.com?subject=Hello%20Pranil%20%7C%20AI%20Research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-gmail.svg"/><img src="assets/card-gmail.svg" width="100%" alt="Direct Dispatch"/></picture></a>
 
 <br><br>
 
