@@ -20,6 +20,6 @@
 
   <text x="4" y="34" class="mono" font-size="14" font-weight="700" fill="#0284c7" letter-spacing="4">06 / NETWORK</text>
   <text x="0" y="86" class="mono" font-size="42" font-weight="700" fill="#0b0c10" letter-spacing="-1">Connect on LinkedIn</text>
-  <text x="1276" y="86" class="mono" font-size="16" fill="#5d6270" text-anchor="end">AI safety, alignment & multi-agent systems</text>
+  <text x="1276" y="86" class="mono" font-size="16" fill="#5d6270" text-anchor="end">AI safety, cybersecurity & multi-agent systems</text>
   <rect x="0" y="108" width="1280" height="2" fill="url(#ln_06_l)"/>
 </svg>

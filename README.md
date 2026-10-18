@@ -5,12 +5,10 @@
 <p align="center">
   <a href="mailto:pranilshah08@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-pranilshah08%40gmail.com-0e0f14?style=flat-square&logo=gmail&logoColor=38bdf8"/><img src="https://img.shields.io/badge/EMAIL-pranilshah08%40gmail.com-fbf8f1?style=flat-square&logo=gmail&logoColor=0284c7" alt="Email"/></picture></a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-Connect-0e0f14?style=flat-square&logo=linkedin&logoColor=38bdf8"/><img src="https://img.shields.io/badge/LINKEDIN-Connect-fbf8f1?style=flat-square&logo=linkedin&logoColor=0284c7" alt="LinkedIn"/></picture></a>
+  <a href="https://www.linkedin.com/in/pranil-shah-721b2033a/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-pranil--shah--721b2033a-0e0f14?style=flat-square&logo=linkedin&logoColor=38bdf8"/><img src="https://img.shields.io/badge/LINKEDIN-pranil--shah--721b2033a-fbf8f1?style=flat-square&logo=linkedin&logoColor=0284c7" alt="LinkedIn"/></picture></a>
   &nbsp;
   <a href="https://github.com/PranilShah-08"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-PranilShah--08-0e0f14?style=flat-square&logo=github&logoColor=38bdf8"/><img src="https://img.shields.io/badge/GITHUB-PranilShah--08-fbf8f1?style=flat-square&logo=github&logoColor=0284c7" alt="GitHub"/></picture></a>
 </p>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"/><img src="assets/now.svg" width="100%" alt="Now: Exploring Multi-Agent Containment & Zero-Drift Steering • 4 Flagship Frameworks Active"/></picture>
 
 </div>
 
@@ -52,7 +50,7 @@
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" width="100%" alt="06 / NETWORK"/></picture>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-linkedin.svg"/><img src="assets/card-linkedin.svg" width="100%" alt="Connect on LinkedIn"/></picture></a>
+<a href="https://www.linkedin.com/in/pranil-shah-721b2033a/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-linkedin.svg"/><img src="assets/card-linkedin.svg" width="100%" alt="Connect on LinkedIn"/></picture></a>
 
 <br><br>
 
